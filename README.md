@@ -8,8 +8,8 @@ This project creates an interactive visualization showing board game rating dist
 
 ## Contents
 
-- `Q4/Q4.html` — Main visualization file  
-- `Q4/average-rating.csv` — Dataset containing board game ratings  
+- `Q4.html` — Main visualization file  
+- `average-rating.csv` — Dataset containing board game ratings  
 - `lib/d3.v5.min.js` — D3 visualization library  
 - `lib/d3-dsv.min.js` — CSV parsing library  
 - `index.html` — Entry page for the project  
